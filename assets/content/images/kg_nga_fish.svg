@@ -1,0 +1,28 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#E0F7FA"/>
+  <!-- Swimming Fish (ငါး) -->
+  <!-- Tail fin -->
+  <polygon points="45,100 20,75 25,100 20,125" fill="#FF7043"/>
+  <!-- Body -->
+  <ellipse cx="95" cy="100" rx="48" ry="32" fill="#FFA726"/>
+  <!-- Top/Bottom Fins -->
+  <path d="M85,68 Q105,52 115,70 Z" fill="#FF7043"/>
+  <path d="M85,132 Q100,148 112,130 Z" fill="#FF7043"/>
+  <!-- Eye -->
+  <circle cx="125" cy="92" r="8" fill="#FFFFFF"/>
+  <circle cx="127" cy="92" r="4.5" fill="#212121"/>
+  <circle cx="128" cy="90" r="1.5" fill="#FFFFFF"/>
+  <!-- Smile -->
+  <path d="M136,102 Q142,106 136,110" stroke="#E65100" stroke-width="2.5" fill="none"/>
+  <!-- Gills & Stripes -->
+  <path d="M112,85 Q106,100 112,115" stroke="#FB8C00" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M92,80 Q85,100 92,120" stroke="#FFFFFF" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M72,85 Q66,100 72,115" stroke="#FFFFFF" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- Air Bubbles -->
+  <circle cx="152" cy="78" r="6" fill="#80DEEA" opacity="0.7"/>
+  <circle cx="162" cy="62" r="4" fill="#80DEEA" opacity="0.7"/>
+  <circle cx="158" cy="46" r="3" fill="#80DEEA" opacity="0.7"/>
+  <!-- Letter Badge င -->
+  <circle cx="45" cy="45" r="22" fill="#26A69A"/>
+  <text x="45" y="54" font-family="'NotoSansMyanmar', sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">င</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#FFF8E1"/>
+  <!-- Village Market Stall (ဈေး) -->
+  <!-- Stall Counter -->
+  <rect x="40" y="118" width="120" height="42" rx="4" fill="#8D6E63"/>
+  <!-- Awning roof -->
+  <polygon points="30,75 170,75 160,98 40,98" fill="#E53935"/>
+  <!-- Awning Stripes -->
+  <polygon points="40,75 60,75 56,98 38,98" fill="#FFFFFF"/>
+  <polygon points="80,75 100,75 98,98 78,98" fill="#FFFFFF"/>
+  <polygon points="120,75 140,75 138,98 118,98" fill="#FFFFFF"/>
+  <!-- Awning scalloped trim -->
+  <circle cx="50" cy="98" r="8" fill="#E53935"/>
+  <circle cx="70" cy="98" r="8" fill="#FFFFFF"/>
+  <circle cx="90" cy="98" r="8" fill="#E53935"/>
+  <circle cx="110" cy="98" r="8" fill="#FFFFFF"/>
+  <circle cx="130" cy="98" r="8" fill="#E53935"/>
+  <circle cx="150" cy="98" r="8" fill="#FFFFFF"/>
+  <!-- Market Baskets with fruits -->
+  <ellipse cx="65" cy="120" rx="14" ry="8" fill="#D7CCC8"/>
+  <circle cx="60" cy="116" r="6" fill="#F44336"/>
+  <circle cx="70" cy="116" r="6" fill="#F44336"/>
+  <circle cx="65" cy="111" r="5" fill="#F44336"/>
+  <ellipse cx="100" cy="120" rx="14" ry="8" fill="#D7CCC8"/>
+  <circle cx="95" cy="116" r="6" fill="#FF9800"/>
+  <circle cx="105" cy="116" r="6" fill="#FF9800"/>
+  <circle cx="100" cy="111" r="5" fill="#FF9800"/>
+  <ellipse cx="135" cy="120" rx="14" ry="8" fill="#D7CCC8"/>
+  <circle cx="130" cy="116" r="6" fill="#4CAF50"/>
+  <circle cx="140" cy="116" r="6" fill="#4CAF50"/>
+  <!-- Letter Badge ဈ -->
+  <circle cx="45" cy="45" r="22" fill="#D32F2F"/>
+  <text x="45" y="54" font-family="'NotoSansMyanmar', sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ဈ</text>
+</svg>

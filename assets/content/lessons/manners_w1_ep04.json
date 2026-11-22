@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep04",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 4,
+  "title_my": "အပိုင်း (၄) - တောင်းပန်ပါတယ်",
+  "title_en": "Ep 4: Saying Sorry",
+  "cover_image": "assets/content/images/nono_sad.svg",
+  "sticker_reward": "sticker_w1_ep04_sorry",
+  "stars_reward": 3,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/share_toy.svg",
+      "audio": "assets/content/audio/w1_ep04_s1.mp3",
+      "text_my": "ဧည့်ခန်းထဲမှာ ညီမလေးက သစ်သားတုံးလေးတွေ စီပြီး ရဲတိုက်အိမ်လေး တစ်လုံးကို ကြိုးစားပမ်းစား ဆောက်နေပါတယ်။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/nono_sad.svg",
+      "audio": "assets/content/audio/w1_ep04_s2.mp3",
+      "text_my": "နိုနိုက ဘောလုံးလေး လိုက်ကောက်ရင်း မတော်တဆ ညီမလေးရဲ့ ရဲတိုက်အိမ်လေးကို တိုက်မိပြီး ပြိုကျသွားပါတယ်။ ညီမလေးက ဝမ်းနည်းပြီး ငိုမဲ့မဲ့ ဖြစ်သွားတယ်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/nono_bow.svg",
+      "audio": "assets/content/audio/w1_ep04_s3.mp3",
+      "text_my": "ညီမလေး စိတ်မကောင်းမဖြစ်အောင် ချက်ချင်း တောင်းပန်စကား ပြောရအောင် နိုနိုကို နှိပ်ပေးပါ!",
+      "action_label_my": "တောင်းပန်ပါတယ် ညီမလေး"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/share_toy.svg",
+      "audio": "assets/content/audio/w1_ep04_s4.mp3",
+      "text_my": "တောင်းပန်ပါတယ် ညီမလေးရယ်လို့ နိုနိုက ပြောပြီး အတူတူ ပြန်ဆောက်ပေးလိုက်တော့ ညီမလေးက ရပါတယ် အစ်ကိုကြီးဆိုပြီး ပြန်ပြုံးလာပါတယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep04_s5.mp3",
+      "text_my": "မတော်တဆ အမှားလုပ်မိတဲ့အခါ ကြောက်ပြီး ထွက်မပြေးဘဲ တောင်းပန်ပါတယ်လို့ ပြောရဲတာ တကယ့် သတ္တိရှိတဲ့ ကလေးလေးပါပဲ။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "သူငယ်ချင်းရဲ့ အရုပ်ကို မတော်တဆ တိုက်မိရင် ဘာပြောရမလဲ?",
+      "options": [
+        { "image": "assets/content/images/nono_bow.svg", "text_my": "တောင်းပန်ပါတယ် လို့ ပြောမည်", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "မသိချင်ယောင်ဆောင်ပြီး ထွက်ပြေးမည်", "is_correct": false }
+      ],
+      "encouragement_my": "ကောင်းလိုက်တာ! အမှားလုပ်မိရင် တောင်းပန်တတ်တာ သတ္တိရှိတဲ့ ကလေးပါ။"
+    }
+  ]
+}

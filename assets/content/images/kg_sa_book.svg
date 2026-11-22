@@ -1,0 +1,25 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#F3E5F5"/>
+  <!-- Open Book (စာအုပ်) -->
+  <!-- Pages Left and Right -->
+  <path d="M100,140 C85,130 50,130 35,138 L35,88 C50,80 85,80 100,90 Z" fill="#FFFFFF"/>
+  <path d="M100,140 C115,130 150,130 165,138 L165,88 C150,80 115,80 100,90 Z" fill="#FFFFFF"/>
+  <!-- Book Cover Edge -->
+  <path d="M100,144 C85,134 48,134 32,142 L32,146 C48,138 85,138 100,148 C115,138 152,138 168,146 L168,142 C152,134 115,134 100,144 Z" fill="#7B1FA2"/>
+  <!-- Spine Line -->
+  <line x1="100" y1="90" x2="100" y2="145" stroke="#AB47BC" stroke-width="3"/>
+  <!-- Bookmark ribbon -->
+  <path d="M100,90 L100,155 L93,148 L86,155 L86,90" fill="#FF5252"/>
+  <!-- Text lines imitation on pages -->
+  <line x1="45" y1="98" x2="88" y2="98" stroke="#CE93D8" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="45" y1="108" x2="84" y2="108" stroke="#CE93D8" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="45" y1="118" x2="88" y2="118" stroke="#CE93D8" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="112" y1="98" x2="155" y2="98" stroke="#CE93D8" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="112" y1="108" x2="150" y2="108" stroke="#CE93D8" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="112" y1="118" x2="155" y2="118" stroke="#CE93D8" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sparkles -->
+  <polygon points="148,65 150,70 155,72 150,74 148,79 146,74 141,72 146,70" fill="#FFD54F"/>
+  <!-- Letter Badge စ -->
+  <circle cx="45" cy="45" r="22" fill="#8E24AA"/>
+  <text x="45" y="54" font-family="'NotoSansMyanmar', sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">စ</text>
+</svg>

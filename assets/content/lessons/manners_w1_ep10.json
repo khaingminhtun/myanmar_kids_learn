@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep10",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 10,
+  "title_my": "အပိုင်း (၁၀) - ညအိပ်ရာဝင် နှုတ်ဆက်ခြင်း",
+  "title_en": "Ep 10: Goodnight Parents",
+  "cover_image": "assets/content/images/goodnight_bed.svg",
+  "sticker_reward": "sticker_w1_ep10_champion",
+  "stars_reward": 5,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/goodnight_bed.svg",
+      "audio": "assets/content/audio/w1_ep10_s1.mp3",
+      "text_my": "ညမိုးချုပ်လို့ ကောင်းကင်ပေါ်မှာ လမင်းကြီးနဲ့ ကြယ်လေးတွေ ထွက်လာပါပြီ။ နိုနိုနဲ့ ဂျီဂျီတို့ သွားတိုက်ပြီး မျက်နှာသစ်ပြီးပါပြီ။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/parents_happy.svg",
+      "audio": "assets/content/audio/w1_ep10_s2.mp3",
+      "text_my": "အိပ်ရာပေါ် မတက်ခင် တစ်နေ့လုံး ချစ်ခင်စောင့်ရှောက်ပေးခဲ့တဲ့ ဖေဖေ၊ မေမေနဲ့ အဘွားကို ညအိပ်ရာဝင် နှုတ်ဆက်ဖို့ နိုနို ရောက်လာပါတယ်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/nono_bow.svg",
+      "audio": "assets/content/audio/w1_ep10_s3.mp3",
+      "text_my": "ဖေဖေ မေမေနဲ့ အဘွားကို ကောင်းသောညပါလို့ နှုတ်ဆက်ရအောင် နိုနိုကို နှိပ်ပေးပါ!",
+      "action_label_my": "ကောင်းသောညပါ ဖေဖေ မေမေ"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/goodnight_bed.svg",
+      "audio": "assets/content/audio/w1_ep10_s4.mp3",
+      "text_my": "မေမေက နိုနိုကို စောင်လေးခြုံပေးပြီး အိပ်မက်လှလှ မက်ပါစေ သားလေးရေလို့ ချော့သိပ်လိုက်ပါတယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/goodnight_bed.svg",
+      "audio": "assets/content/audio/w1_ep10_s5.mp3",
+      "text_my": "တစ်နေ့လုံး ယဉ်ကျေးလိမ္မာခဲ့တဲ့ ဆင်လေးနိုနိုလိုပဲ သားသားမီးမီးတို့လည်း အိပ်မက်လှလှ မက်ကြပါစေနော်။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "ညအိပ်ရာမဝင်ခင် မိဘတွေကို ဘာပြောပြီး နှုတ်ဆက်သင့်သလဲ?",
+      "options": [
+        { "image": "assets/content/images/goodnight_bed.svg", "text_my": "ကောင်းသောညပါ လို့ နှုတ်ဆက်မည်", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "ဘာမှမပြောဘဲ ဝင်အိပ်မည်", "is_correct": false }
+      ],
+      "encouragement_my": "ဂုဏ်ယူပါတယ်! World (၁) ယဉ်ကျေးလိမ္မာ ပုံပြင်အားလုံး အောင်မြင်သွားပါပြီ။"
+    }
+  ]
+}

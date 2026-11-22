@@ -1,0 +1,34 @@
+{
+  "id": "edu_w1_ep02",
+  "type": "kg_discover",
+  "phase": "education",
+  "world": 1,
+  "episode": 2,
+  "title_my": "သင်ခန်းစာ (၂) - ဂ နှင့် ဃ",
+  "title_en": "Lesson 2: Letters ဂ & ဃ",
+  "cover_image": "assets/content/images/kg_ga_crab.svg",
+  "sticker_reward": "sticker_kg_w1_ep02",
+  "stars_reward": 3,
+  "discover_cards": [
+    { "letter": "ဂ", "word_my": "ဂဏန်း", "image": "assets/content/images/kg_ga_crab.svg", "audio": "assets/content/audio/edu_w1_ep02_c1.mp3", "prompt_my": "ဒီတစ်ခါ ကမ်းခြေမှာ လမ်းလျှောက်နေတဲ့ ဂဏန်းလေးကို ကြည့်ရအောင်။ ဒါက ဂ ငယ် ပါ။ ဂ — ဂ — ဂဏန်း။ လက်မလေးနှစ်ဖက်နဲ့ ဂဏန်းပုံလေးကို နှိပ်ကြည့်ပါ!" },
+    { "letter": "ဃ", "word_my": "ဃနာ", "image": "assets/content/images/kg_gha_pot.svg", "audio": "assets/content/audio/edu_w1_ep02_c2.mp3", "prompt_my": "ဟောဒီမှာ မွှေးကြိုင်ချိုမြိန်တဲ့ ဃနာနို့ဆွမ်းအိုးလေး ရှိတယ်နော်။ ဒါက ဃ ကြီး ပါ။ ဃ — ဃ — ဃနာ။ ပုံလေးကို နှိပ်ပြီး လိုက်ဆိုကြည့်ပါဦး!" }
+  ],
+  "mini_game": [
+    {
+      "prompt_my": "ဂ ငယ် — ဂဏန်း ပုံလေးကို နှိပ်ပေးပါ!",
+      "options": [
+        { "letter": "ဂ", "word_my": "ဂဏန်း", "image": "assets/content/images/kg_ga_crab.svg", "is_correct": true },
+        { "letter": "ဃ", "word_my": "ဃနာ", "image": "assets/content/images/kg_gha_pot.svg", "is_correct": false }
+      ],
+      "encouragement_my": "မှန်ပါတယ်! ဂ ငယ် ဂဏန်းပါ။"
+    },
+    {
+      "prompt_my": "ဃ ကြီး — ဃနာ ပုံလေးကို ရွေးပေးပါ!",
+      "options": [
+        { "letter": "ဂ", "word_my": "ဂဏန်း", "image": "assets/content/images/kg_ga_crab.svg", "is_correct": false },
+        { "letter": "ဃ", "word_my": "ဃနာ", "image": "assets/content/images/kg_gha_pot.svg", "is_correct": true }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! ဃ ကြီး ဃနာ မှန်ပါတယ်။"
+    }
+  ]
+}

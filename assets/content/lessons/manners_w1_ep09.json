@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep09",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 9,
+  "title_my": "အပိုင်း (၉) - အမှန်အတိုင်း ပြောမယ်",
+  "title_en": "Ep 9: Telling the Truth",
+  "cover_image": "assets/content/images/clean_spill.svg",
+  "sticker_reward": "sticker_w1_ep09_honest",
+  "stars_reward": 3,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep09_s1.mp3",
+      "text_my": "ကစားပြီးလို့ နိုနို ရေဆာလာတာနဲ့ စားပွဲပေါ်က ရေခွက်လေးကို လှမ်းယူလိုက်ပါတယ်။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/nono_sad.svg",
+      "audio": "assets/content/audio/w1_ep09_s2.mp3",
+      "text_my": "လက်ချော်ပြီး ကြမ်းပြင်ပေါ် ရေခွက် မှောက်ကျသွားပါတယ်။ နိုနိုက မေမေ ဆူမှာစိုးလို့ ရင်တထိတ်ထိတ် ဖြစ်သွားပေမယ့် လိမ်မပြောဖို့ ဆုံးဖြတ်လိုက်တယ်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/clean_spill.svg",
+      "audio": "assets/content/audio/w1_ep09_s3.mp3",
+      "text_my": "မေမေ့ကို အမှန်အတိုင်း ပြောပြီး အဝတ်ခြောက်လေးနဲ့ ကူသုတ်ရအောင် နှိပ်ပေးပါ!",
+      "action_label_my": "အမှန်အတိုင်း ပြောပြီး သုတ်မယ်"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/parents_happy.svg",
+      "audio": "assets/content/audio/w1_ep09_s4.mp3",
+      "text_my": "မေမေက နိုနိုကို လုံးဝ မဆူဘဲ အမှန်အတိုင်း ပြောရဲပြီး ကြမ်းပြင်ကိုပါ ချက်ချင်း သုတ်ပေးလို့ အရမ်းချီးကျူးလိုက်ပါတယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/clean_spill.svg",
+      "audio": "assets/content/audio/w1_ep09_s5.mp3",
+      "text_my": "ဘယ်တော့မှ မလိမ်ညာဘဲ အမှန်အတိုင်း ပြောတတ်ခြင်းဟာ လူတိုင်း ယုံကြည်ချစ်ခင်ရတဲ့ ကလေးကောင်းတို့ရဲ့ စိတ်ထားပါပဲ။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "မတော်တဆ ရေခွက် မှောက်ကျသွားရင် ဘာလုပ်သင့်သလဲ?",
+      "options": [
+        { "image": "assets/content/images/clean_spill.svg", "text_my": "အမှန်အတိုင်း ပြောပြီး ကူသုတ်ပေးမည်", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "သူများ လုပ်တာပါလို့ လိမ်ပြောမည်", "is_correct": false }
+      ],
+      "encouragement_my": "အရမ်းကောင်းတယ်! ရိုးသားဖြောင့်မတ်ခြင်းဟာ အကောင်းဆုံး အကျင့်ပါ။"
+    }
+  ]
+}

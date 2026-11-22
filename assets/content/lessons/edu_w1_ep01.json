@@ -1,0 +1,34 @@
+{
+  "id": "edu_w1_ep01",
+  "type": "kg_discover",
+  "phase": "education",
+  "world": 1,
+  "episode": 1,
+  "title_my": "သင်ခန်းစာ (၁) - က နှင့် ခ",
+  "title_en": "Lesson 1: Letters က & ခ",
+  "cover_image": "assets/content/images/kg_ka_child.svg",
+  "sticker_reward": "sticker_kg_w1_ep01",
+  "stars_reward": 3,
+  "discover_cards": [
+    { "letter": "က", "word_my": "ကလေး", "image": "assets/content/images/kg_ka_child.svg", "audio": "assets/content/audio/edu_w1_ep01_c1.mp3", "prompt_my": "မင်္ဂလာပါ သားသားမီးမီးတို့ရေ! ဆရာမလေး မီးမီးနဲ့အတူ ပထမဆုံး အက္ခရာလေးကို လေ့လာကြမယ်။ ဒါကတော့ က ကြီး ပါ။ က — က — ကလေး။ ပြုံးရွှင်နေတဲ့ ကလေးပုံလေးကို နှိပ်ပြီး အတူတူ လိုက်ဆိုကြည့်ပါဦး!" },
+    { "letter": "ခ", "word_my": "ခွေး", "image": "assets/content/images/kg_kha_dog.svg", "audio": "assets/content/audio/edu_w1_ep01_c2.mp3", "prompt_my": "နောက်တစ်လုံးကတော့ ခ ခွေး ပါနော်။ ဂျီဂျီလေးနဲ့အတူ ဆိုကြည့်ရအောင် — ခ — ခ — ခွေးလေး။ အမြီးလေးနှံ့နေတဲ့ ခွေးပုံလေးကို နှိပ်ပြီး အသံနားထောင်ကြည့်ပါ!" }
+  ],
+  "mini_game": [
+    {
+      "prompt_my": "က ကြီး — ကလေး ပုံလေးကို ရွေးပေးပါဦး!",
+      "options": [
+        { "letter": "က", "word_my": "ကလေး", "image": "assets/content/images/kg_ka_child.svg", "is_correct": true },
+        { "letter": "ခ", "word_my": "ခွေး", "image": "assets/content/images/kg_kha_dog.svg", "is_correct": false }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! က ကြီး ကလေး မှန်ပါတယ်။"
+    },
+    {
+      "prompt_my": "ခ ခွေး — ခွေးလေး ပုံကို ရှာပေးပါဦး!",
+      "options": [
+        { "letter": "က", "word_my": "ကလေး", "image": "assets/content/images/kg_ka_child.svg", "is_correct": false },
+        { "letter": "ခ", "word_my": "ခွေး", "image": "assets/content/images/kg_kha_dog.svg", "is_correct": true }
+      ],
+      "encouragement_my": "အရမ်းကောင်းတယ်! ခ ခွေး မှန်ပါတယ်။"
+    }
+  ]
+}

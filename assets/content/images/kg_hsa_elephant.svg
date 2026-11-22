@@ -1,0 +1,25 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#E8F5E9"/>
+  <!-- Elephant (ဆင်) -->
+  <!-- Big Ear -->
+  <circle cx="60" cy="95" r="32" fill="#B0BEC5"/>
+  <circle cx="60" cy="95" r="20" fill="#F8BBD0"/>
+  <!-- Head & Body -->
+  <circle cx="105" cy="100" r="48" fill="#CFD8DC"/>
+  <!-- Eye -->
+  <circle cx="95" cy="85" r="6" fill="#263238"/>
+  <circle cx="97" cy="83" r="2" fill="#FFFFFF"/>
+  <!-- Smiling Cheek -->
+  <circle cx="82" cy="102" r="7" fill="#FF8A80" opacity="0.6"/>
+  <!-- Trunk holding flower -->
+  <path d="M125,95 Q150,105 145,130 Q140,145 125,138 Q118,132 125,124 Q132,126 135,118 Q135,108 122,102" fill="#90A4AE"/>
+  <!-- Flower in trunk -->
+  <circle cx="125" cy="148" r="8" fill="#FF4081"/>
+  <circle cx="125" cy="148" r="3" fill="#FFEB3B"/>
+  <!-- Legs -->
+  <rect x="80" y="140" width="16" height="28" rx="6" fill="#90A4AE"/>
+  <rect x="108" y="140" width="16" height="28" rx="6" fill="#90A4AE"/>
+  <!-- Letter Badge ဆ -->
+  <circle cx="45" cy="45" r="22" fill="#43A047"/>
+  <text x="45" y="54" font-family="'NotoSansMyanmar', sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ဆ</text>
+</svg>

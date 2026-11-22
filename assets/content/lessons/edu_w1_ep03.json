@@ -1,0 +1,35 @@
+{
+  "id": "edu_w1_ep03",
+  "type": "kg_discover",
+  "phase": "education",
+  "world": 1,
+  "episode": 3,
+  "title_my": "သင်ခန်းစာ (၃) - င နှင့် (က - င) ပြန်လည်လေ့ကျင့်ခြင်း",
+  "title_en": "Lesson 3: Letter င & Row 1 Review",
+  "cover_image": "assets/content/images/kg_nga_fish.svg",
+  "sticker_reward": "sticker_kg_w1_ep03",
+  "stars_reward": 3,
+  "discover_cards": [
+    { "letter": "င", "word_my": "ငါး", "image": "assets/content/images/kg_nga_fish.svg", "audio": "assets/content/audio/edu_w1_ep03_c1.mp3", "prompt_my": "ရေကန်လေးထဲမှာ ပျော်ပျော်ကြီး ကူးခတ်နေတာ ဘာလေးလဲ သိလား? ငါးလေးပါ။ ဒါက င အက္ခရာ ပါ။ င — င — ငါးလေး။ ပုံလေးကို နှိပ်ကြည့်ပါ!" },
+    { "letter": "က ခ ဂ ဃ င", "word_my": "ပထမတန်း ဗျည်းငါးလုံး", "image": "assets/content/images/kg_ka_child.svg", "audio": "assets/content/audio/edu_w1_ep03_c2.mp3", "prompt_my": "တော်လိုက်တာ! အခု ပထမတန်း ဗျည်းငါးလုံးကို ဆရာမလေး မီးမီးနဲ့အတူ သံပြိုင် ရွတ်ဆိုကြည့်ရအောင် — က၊ ခ၊ ဂ၊ ဃ၊ င!" }
+  ],
+  "mini_game": [
+    {
+      "prompt_my": "င — ငါးလေး ပုံကို ရှာပေးပါဦး!",
+      "options": [
+        { "letter": "င", "word_my": "ငါး", "image": "assets/content/images/kg_nga_fish.svg", "is_correct": true },
+        { "letter": "ခ", "word_my": "ခွေး", "image": "assets/content/images/kg_kha_dog.svg", "is_correct": false },
+        { "letter": "ဂ", "word_my": "ဂဏန်း", "image": "assets/content/images/kg_ga_crab.svg", "is_correct": false }
+      ],
+      "encouragement_my": "အရမ်းတော်တယ်! င ငါးလေး မှန်ပါတယ်။"
+    },
+    {
+      "prompt_my": "က၊ ခ၊ ဂ၊ ဃ ပြီးရင် ဘာအက္ခရာ လာသလဲ?",
+      "options": [
+        { "letter": "င", "word_my": "ငါး", "image": "assets/content/images/kg_nga_fish.svg", "is_correct": true },
+        { "letter": "က", "word_my": "ကလေး", "image": "assets/content/images/kg_ka_child.svg", "is_correct": false }
+      ],
+      "encouragement_my": "ဂုဏ်ယူပါတယ်! က ခ ဂ ဃ င ကို အလွတ်ရသွားပြီ။"
+    }
+  ]
+}

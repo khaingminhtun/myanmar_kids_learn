@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep03",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 3,
+  "title_my": "အပိုင်း (၃) - ကျေးဇူးတင်ပါတယ်",
+  "title_en": "Ep 3: Saying Thank You",
+  "cover_image": "assets/content/images/grandma_happy.svg",
+  "sticker_reward": "sticker_w1_ep03_thanks",
+  "stars_reward": 3,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/grandma_happy.svg",
+      "audio": "assets/content/audio/w1_ep03_s1.mp3",
+      "text_my": "နေ့ခင်းဘက် ဥယျာဉ်ထဲက သရက်ပင်ကြီးမှာ ဝါဝင်းနေတဲ့ သရက်သီးမှည့်လေးတွေ သီးနေပါတယ်။ အဘွားက သရက်သီးချိုချိုလေး နှစ်လုံး ခူးလာခဲ့တယ်။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep03_s2.mp3",
+      "text_my": "အဘွားက နိုနိုနဲ့ ဂျီဂျီစားဖို့ သရက်သီးလေးတွေ လှမ်းပေးလိုက်ပါတယ်။ လူကြီးတွေ ပေးတဲ့အခါ လက်တစ်ဖက်တည်းနဲ့ မယူရဘူးနော်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/nono_bow.svg",
+      "audio": "assets/content/audio/w1_ep03_s3.mp3",
+      "text_my": "လက်နှစ်ဖက်နဲ့ ရိုရိုသေသေ ယူပြီး ကျေးဇူးတင်စကား ပြောရအောင် နိုနိုကို နှိပ်ပေးပါ!",
+      "action_label_my": "ကျေးဇူးတင်ပါတယ် အဘွား"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/grandma_happy.svg",
+      "audio": "assets/content/audio/w1_ep03_s4.mp3",
+      "text_my": "နိုနိုက လက်နှစ်ဖက်နဲ့ ခံယူပြီး ကျေးဇူးတင်ပါတယ် အဘွားလို့ ပြောလိုက်တော့ အဘွားက ချီးကျူးပြီး နောက်ထပ် မုန့်လေးတစ်ခုပါ ထပ်ပေးလိုက်တယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep03_s5.mp3",
+      "text_my": "ဘယ်သူပဲ ကိုယ့်ကို မုန့်ပေးပေး၊ ကူညီပေးပေး လက်နှစ်ဖက်နဲ့ ယူပြီး ကျေးဇူးတင်ပါတယ်လို့ ပြောတတ်ရင် လူချစ်လူခင် အရမ်းပေါများပါတယ်။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "လူကြီးတွေက သရက်သီးပေးရင် ဘယ်လို ယူရမလဲ?",
+      "options": [
+        { "image": "assets/content/images/nono_bow.svg", "text_my": "လက်နှစ်ဖက်နဲ့ ယူပြီး ကျေးဇူးတင်ပါတယ် ပြောမည်", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "လက်တစ်ဖက်တည်းနဲ့ ဆွဲယူမည်", "is_correct": false }
+      ],
+      "encouragement_my": "အရမ်းတော်တယ်! လက်နှစ်ဖက်နဲ့ ယူတာ မြန်မာ့ယဉ်ကျေးမှုပါပဲ။"
+    }
+  ]
+}

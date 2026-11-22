@@ -1,0 +1,21 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#FCE4EC"/>
+  <!-- Mother -->
+  <circle cx="75" cy="72" r="28" fill="#3E2723"/>
+  <circle cx="75" cy="82" r="25" fill="#FFE0B2"/>
+  <circle cx="68" cy="80" r="4" fill="#3E2723"/>
+  <circle cx="82" cy="80" r="4" fill="#3E2723"/>
+  <circle cx="63" cy="88" r="4" fill="#FF8A80" opacity="0.6"/>
+  <circle cx="87" cy="88" r="4" fill="#FF8A80" opacity="0.6"/>
+  <path d="M70,92 Q75,98 80,92" stroke="#3E2723" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M48,180 C48,125 102,125 102,180 Z" fill="#F06292"/>
+  <!-- Father -->
+  <circle cx="128" cy="68" r="26" fill="#212121"/>
+  <circle cx="128" cy="76" r="24" fill="#FFCCBC"/>
+  <circle cx="120" cy="74" r="4" fill="#212121"/>
+  <circle cx="136" cy="74" r="4" fill="#212121"/>
+  <path d="M122,86 Q128,92 134,86" stroke="#212121" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M104,180 C104,118 158,118 158,180 Z" fill="#42A5F5"/>
+  <!-- Heart in center -->
+  <path d="M100,105 C96,95 86,95 86,105 C86,115 100,126 100,126 C100,126 114,115 114,105 C114,95 104,95 100,105 Z" fill="#E91E63"/>
+</svg>

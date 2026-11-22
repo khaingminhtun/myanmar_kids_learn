@@ -1,0 +1,35 @@
+{
+  "id": "edu_w1_ep06",
+  "type": "kg_discover",
+  "phase": "education",
+  "world": 1,
+  "episode": 6,
+  "title_my": "သင်ခန်းစာ (၆) - ည နှင့် (စ - ည) ပြန်လည်လေ့ကျင့်ခြင်း",
+  "title_en": "Lesson 6: Letter ည & Row 2 Review",
+  "cover_image": "assets/content/images/kg_nya_tree.svg",
+  "sticker_reward": "sticker_kg_w1_ep06",
+  "stars_reward": 3,
+  "discover_cards": [
+    { "letter": "ည", "word_my": "ညောင်ပင်", "image": "assets/content/images/kg_nya_tree.svg", "audio": "assets/content/audio/edu_w1_ep06_c1.mp3", "prompt_my": "ရွာထိပ်က အရိပ်အေးအေး ပေးနေတဲ့ သစ်ပင်ကြီးကို ကြည့်ပါဦး။ ဒါက ည အက္ခရာ ပါ။ ည — ည — ညောင်ပင်ကြီး။ စိမ်းလန်းတဲ့ ညောင်ပင်ပုံကို နှိပ်ကြည့်ပါ!" },
+    { "letter": "စ ဆ ဇ ဈ ည", "word_my": "ဒုတိယတန်း ဗျည်းငါးလုံး", "image": "assets/content/images/kg_hsa_elephant.svg", "audio": "assets/content/audio/edu_w1_ep06_c2.mp3", "prompt_my": "ဂျီဂျီလေးနဲ့အတူ ဒုတိယတန်း ဗျည်းငါးလုံးကို ပြန်ရွတ်ဆိုကြည့်ရအောင် — စ၊ ဆ၊ ဇ၊ ဈ၊ ည!" }
+  ],
+  "mini_game": [
+    {
+      "prompt_my": "ည — ညောင်ပင် ပုံလေးကို နှိပ်ပေးပါ!",
+      "options": [
+        { "letter": "ည", "word_my": "ညောင်ပင်", "image": "assets/content/images/kg_nya_tree.svg", "is_correct": true },
+        { "letter": "စ", "word_my": "စာအုပ်", "image": "assets/content/images/kg_sa_book.svg", "is_correct": false },
+        { "letter": "ဇ", "word_my": "ဇီးကွက်", "image": "assets/content/images/kg_za_owl.svg", "is_correct": false }
+      ],
+      "encouragement_my": "မှန်ပါတယ်! ည ညောင်ပင်ပါ။"
+    },
+    {
+      "prompt_my": "စ၊ ဆ၊ ဇ၊ ဈ ပြီးရင် ဘာအက္ခရာ လာသလဲ?",
+      "options": [
+        { "letter": "ည", "word_my": "ညောင်ပင်", "image": "assets/content/images/kg_nya_tree.svg", "is_correct": true },
+        { "letter": "ဆ", "word_my": "ဆင်", "image": "assets/content/images/kg_hsa_elephant.svg", "is_correct": false }
+      ],
+      "encouragement_my": "အရမ်းတော်တယ်! စ ဆ ဇ ဈ ည ကို မှတ်မိသွားပြီ။"
+    }
+  ]
+}

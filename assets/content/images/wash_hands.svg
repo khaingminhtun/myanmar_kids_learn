@@ -1,0 +1,22 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#E0F7FA"/>
+  <!-- Faucet -->
+  <path d="M100,25 L100,50 L88,50" stroke="#78909C" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <rect x="80" y="46" width="14" height="10" rx="3" fill="#546E7A"/>
+  <!-- Water stream -->
+  <path d="M87,56 L87,110" stroke="#4FC3F7" stroke-width="6" stroke-dasharray="8 4" stroke-linecap="round"/>
+  <!-- Hands -->
+  <ellipse cx="80" cy="130" rx="22" ry="16" fill="#FFE0B2" transform="rotate(-15 80 130)"/>
+  <ellipse cx="105" cy="130" rx="22" ry="16" fill="#FFE0B2" transform="rotate(15 105 130)"/>
+  <circle cx="72" cy="120" r="6" fill="#FFE0B2"/>
+  <circle cx="113" cy="120" r="6" fill="#FFE0B2"/>
+  <!-- Soap Bubbles -->
+  <circle cx="92" cy="118" r="14" fill="#B2EBF2" opacity="0.8"/>
+  <circle cx="95" cy="115" r="5" fill="#FFFFFF" opacity="0.9"/>
+  <circle cx="74" cy="105" r="9" fill="#B2EBF2" opacity="0.8"/>
+  <circle cx="115" cy="108" r="11" fill="#B2EBF2" opacity="0.8"/>
+  <circle cx="100" cy="92" r="8" fill="#E1F5FE" opacity="0.8"/>
+  <!-- Sparkles -->
+  <polygon points="55,90 57,96 63,98 57,100 55,106 53,100 47,98 53,96" fill="#FFD54F"/>
+  <polygon points="135,80 137,86 143,88 137,90 135,96 133,90 127,88 133,86" fill="#FFD54F"/>
+</svg>

@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep02",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 2,
+  "title_my": "အပိုင်း (၂) - ဗျာ နှင့် ရှင့် ထူးခြင်း",
+  "title_en": "Ep 2: Polite Replies",
+  "cover_image": "assets/content/images/parents_happy.svg",
+  "sticker_reward": "sticker_w1_ep02_reply",
+  "stars_reward": 3,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/share_toy.svg",
+      "audio": "assets/content/audio/w1_ep02_s1.mp3",
+      "text_my": "မနက်စာ စားပြီးတော့ နိုနိုနဲ့ ဂျီဂျီလေးတို့ ခြံထဲမှာ အရုပ်ကားလေးတွေနဲ့ ပျော်ပျော်ပါးပါး ဆော့နေကြပါတယ်။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/nono_sad.svg",
+      "audio": "assets/content/audio/w1_ep02_s2.mp3",
+      "text_my": "အဲဒီအချိန်မှာ မေမေက မီးဖိုချောင်ထဲကနေ သားလေးနိုနိုရေ လာပါဦးလို့ ခေါ်လိုက်တယ်။ ဂျီဂျီလေးက ဟေ့ လို့ အော်ထူးမလို့ လုပ်တော့ နိုနိုက ခေါင်းခါပြလိုက်တယ်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/nono_bow.svg",
+      "audio": "assets/content/audio/w1_ep02_s3.mp3",
+      "text_my": "မေမေခေါ်ရင် ယဉ်ကျေးစွာ ပြန်ထူးရအောင် ဆင်လေးနိုနိုကို နှိပ်ပေးပါဦး!",
+      "action_label_my": "ဗျာ မေမေ / ရှင့် မေမေ"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/parents_happy.svg",
+      "audio": "assets/content/audio/w1_ep02_s4.mp3",
+      "text_my": "နိုနိုက ဗျာ မေမေလို့ ယဉ်ကျေးစွာ ထူးပြီး ပြေးလာတော့ မေမေက အရမ်းသဘောကျပြီး သားလေးက လိမ္မာလိုက်တာလို့ ခေါင်းလေးပွတ်ပေးလိုက်တယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/parents_happy.svg",
+      "audio": "assets/content/audio/w1_ep02_s5.mp3",
+      "text_my": "လူကြီးမိဘတွေ ခေါ်ရင် ဟေ့ လို့ မအော်ဘဲ ယောက်ျားလေးဆို ဗျာ၊ မိန်းကလေးဆို ရှင့် လို့ ထူးတာ မြန်မာကလေးလေးတွေရဲ့ အလှဆုံး အကျင့်ပါပဲ။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "ဖေဖေ မေမေတို့ ခေါ်ရင် ဘယ်လို ယဉ်ကျေးစွာ ပြန်ထူးရမလဲ?",
+      "options": [
+        { "image": "assets/content/images/parents_happy.svg", "text_my": "ဗျာ / ရှင့် လို့ ထူးမည်", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "ဟေ့ လို့ အော်ထူးမည်", "is_correct": false }
+      ],
+      "encouragement_my": "မှန်ပါတယ်! ဗျာ၊ ရှင့် လို့ ထူးတာ အရမ်းယဉ်ကျေးပါတယ်။"
+    }
+  ]
+}

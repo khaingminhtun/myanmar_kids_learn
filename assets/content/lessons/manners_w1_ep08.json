@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep08",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 8,
+  "title_my": "အပိုင်း (၈) - အရုပ်လေး မျှဝေကစားမယ်",
+  "title_en": "Ep 8: Sharing Toys",
+  "cover_image": "assets/content/images/share_toy.svg",
+  "sticker_reward": "sticker_w1_ep08_share",
+  "stars_reward": 3,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep08_s1.mp3",
+      "text_my": "ညနေခင်း နေအေးချိန်မှာ သူငယ်ချင်း ယုန်ဖြူလေး နိုနိုတို့အိမ်ကို လာလည်ပါတယ်။ နိုနိုဆီမှာ အရောင်စုံ ဘောလုံးအသစ်လေး တစ်လုံး ရှိတယ်။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/nono_sad.svg",
+      "audio": "assets/content/audio/w1_ep08_s2.mp3",
+      "text_my": "ယုန်ဖြူလေးက ဘောလုံးလေးကို ငေးကြည့်နေပေမယ့် မတောင်းရဲဘူး။ နိုနိုက တစ်ယောက်တည်း ဆော့တာထက် အတူတူ ဆော့ရင် ပိုပျော်မှာပဲလို့ တွေးမိလိုက်တယ်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/share_toy.svg",
+      "audio": "assets/content/audio/w1_ep08_s3.mp3",
+      "text_my": "ယုန်ဖြူလေးနဲ့ အတူတူ ဘောလုံးကစားရအောင် ဘောလုံးပုံလေးကို နှိပ်ပေးပါ!",
+      "action_label_my": "အတူတူ မျှဝေကစားကြမယ်"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/share_toy.svg",
+      "audio": "assets/content/audio/w1_ep08_s4.mp3",
+      "text_my": "နိုနို၊ ဂျီဂျီနဲ့ ယုန်ဖြူလေးတို့ သုံးယောက်သား ဘောလုံးလေး အပြန်အလှန် ပစ်ပေးရင်း ရယ်မောပျော်ရွှင်နေကြပါတယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep08_s5.mp3",
+      "text_my": "ကိုယ့်မှာရှိတဲ့ အရုပ်နဲ့ မုန့်လေးတွေကို သူငယ်ချင်းတွေနဲ့ မျှဝေတတ်ရင် သူငယ်ချင်းကောင်းတွေ အများကြီး ရလာမှာပါ။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "သူငယ်ချင်း အိမ်လာလည်ရင် အရုပ်ကို ဘယ်လို လုပ်သင့်သလဲ?",
+      "options": [
+        { "image": "assets/content/images/share_toy.svg", "text_my": "အတူတူ မျှဝေကစားမည်", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "ဖွက်ထားပြီး မပေးဘဲ နေမည်", "is_correct": false }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! မျှဝေတတ်တဲ့ ကလေးကို အားလုံးက ချစ်ကြတယ်။"
+    }
+  ]
+}

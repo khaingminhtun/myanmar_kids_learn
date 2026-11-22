@@ -1,0 +1,34 @@
+{
+  "id": "edu_w1_ep05",
+  "type": "kg_discover",
+  "phase": "education",
+  "world": 1,
+  "episode": 5,
+  "title_my": "သင်ခန်းစာ (၅) - ဇ နှင့် ဈ",
+  "title_en": "Lesson 5: Letters ဇ & ဈ",
+  "cover_image": "assets/content/images/kg_za_owl.svg",
+  "sticker_reward": "sticker_kg_w1_ep05",
+  "stars_reward": 3,
+  "discover_cards": [
+    { "letter": "ဇ", "word_my": "ဇီးကွက်", "image": "assets/content/images/kg_za_owl.svg", "audio": "assets/content/audio/edu_w1_ep05_c1.mp3", "prompt_my": "မျက်လုံးဝိုင်းဝိုင်းလေးနဲ့ ဉာဏ်ကောင်းတဲ့ ငှက်လေးကို ကြည့်ပါဦး။ ဒါက ဇ ကွဲ ပါ။ ဇ — ဇ — ဇီးကွက်လေး။ ဇီးကွက်ပုံလေးကို နှိပ်ကြည့်ပါ!" },
+    { "letter": "ဈ", "word_my": "ဈေး", "image": "assets/content/images/kg_zhya_market.svg", "audio": "assets/content/audio/edu_w1_ep05_c2.mp3", "prompt_my": "မေမေနဲ့အတူ သစ်သီးချိုချိုလေးတွေ သွားဝယ်တဲ့ နေရာက ဈေး ပါ။ ဒါက ဈ မျဉ်းဆွဲ ပါ။ ဈ — ဈ — ဈေး။ ပုံလေးကို နှိပ်ကြည့်ပါ!" }
+  ],
+  "mini_game": [
+    {
+      "prompt_my": "ဇ ကွဲ — ဇီးကွက် ပုံလေးကို ရှာပေးပါ!",
+      "options": [
+        { "letter": "ဇ", "word_my": "ဇီးကွက်", "image": "assets/content/images/kg_za_owl.svg", "is_correct": true },
+        { "letter": "ဈ", "word_my": "ဈေး", "image": "assets/content/images/kg_zhya_market.svg", "is_correct": false }
+      ],
+      "encouragement_my": "အရမ်းကောင်းတယ်! ဇ ကွဲ ဇီးကွက်ပါ။"
+    },
+    {
+      "prompt_my": "ဈ မျဉ်းဆွဲ — ဈေး ပုံလေးကို ရွေးပေးပါ!",
+      "options": [
+        { "letter": "ဇ", "word_my": "ဇီးကွက်", "image": "assets/content/images/kg_za_owl.svg", "is_correct": false },
+        { "letter": "ဈ", "word_my": "ဈေး", "image": "assets/content/images/kg_zhya_market.svg", "is_correct": true }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! ဈ မျဉ်းဆွဲ ဈေး မှန်ပါတယ်။"
+    }
+  ]
+}

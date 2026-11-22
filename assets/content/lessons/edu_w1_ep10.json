@@ -1,0 +1,45 @@
+{
+  "id": "edu_w1_ep10",
+  "type": "kg_discover",
+  "phase": "education",
+  "world": 1,
+  "episode": 10,
+  "title_my": "သင်ခန်းစာ (၁၀) - က မှ ည အထိ ရတနာရှာပုံတော်",
+  "title_en": "Lesson 10: က to ည Champion Review",
+  "cover_image": "assets/content/images/kg_za_owl.svg",
+  "sticker_reward": "sticker_kg_w1_ep10_champion",
+  "stars_reward": 5,
+  "discover_cards": [
+    { "letter": "က ခ ဂ ဃ င", "word_my": "ပထမတန်း အောင်မြင်ပြီ!", "image": "assets/content/images/kg_ka_child.svg", "audio": "assets/content/audio/edu_w1_ep10_c1.mp3", "prompt_my": "ဝါး! သားသားမီးမီးတို့ အရမ်းတော်တာပဲ! က၊ ခ၊ ဂ၊ ဃ၊ င — ပထမတန်း ငါးလုံးလုံးကို ကျွမ်းကျင်သွားပြီနော်!" },
+    { "letter": "စ ဆ ဇ ဈ ည", "word_my": "ဒုတိယတန်း အောင်မြင်ပြီ!", "image": "assets/content/images/kg_nya_tree.svg", "audio": "assets/content/audio/edu_w1_ep10_c2.mp3", "prompt_my": "စ၊ ဆ၊ ဇ၊ ဈ၊ ည — ဒုတိယတန်း ငါးလုံးလည်း အောင်မြင်သွားပြီ။ အခု ရွှေတံဆိပ်ဆု ရဖို့ ရတနာရှာပုံတော် ကစားပွဲကြီး စတင်ကြရအောင်!" }
+  ],
+  "mini_game": [
+    {
+      "prompt_my": "က ကြီး — ကလေး ပုံလေးကို နှိပ်ပါ!",
+      "options": [
+        { "letter": "က", "word_my": "ကလေး", "image": "assets/content/images/kg_ka_child.svg", "is_correct": true },
+        { "letter": "စ", "word_my": "စာအုပ်", "image": "assets/content/images/kg_sa_book.svg", "is_correct": false },
+        { "letter": "ည", "word_my": "ညောင်ပင်", "image": "assets/content/images/kg_nya_tree.svg", "is_correct": false }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! ပထမတစ်ခု အောင်မြင်ပြီ။"
+    },
+    {
+      "prompt_my": "ဆ လိမ် — ဆင်လေးနိုနို ကို ရှာပေးပါ!",
+      "options": [
+        { "letter": "ဆ", "word_my": "ဆင်", "image": "assets/content/images/kg_hsa_elephant.svg", "is_correct": true },
+        { "letter": "ခ", "word_my": "ခွေး", "image": "assets/content/images/kg_kha_dog.svg", "is_correct": false },
+        { "letter": "င", "word_my": "ငါး", "image": "assets/content/images/kg_nga_fish.svg", "is_correct": false }
+      ],
+      "encouragement_my": "အရမ်းတော်တယ်! နောက်ဆုံးတစ်ခုပဲ ကျန်တော့တယ်။"
+    },
+    {
+      "prompt_my": "ည — ညောင်ပင်ကြီး ကို ရွေးပေးပါ!",
+      "options": [
+        { "letter": "ည", "word_my": "ညောင်ပင်", "image": "assets/content/images/kg_nya_tree.svg", "is_correct": true },
+        { "letter": "ဇ", "word_my": "ဇီးကွက်", "image": "assets/content/images/kg_za_owl.svg", "is_correct": false },
+        { "letter": "ဂ", "word_my": "ဂဏန်း", "image": "assets/content/images/kg_ga_crab.svg", "is_correct": false }
+      ],
+      "encouragement_my": "ဂုဏ်ယူပါတယ်! KG World (၁) က မှ ည အထိ အားလုံး အောင်မြင်သွားပါပြီ။"
+    }
+  ]
+}

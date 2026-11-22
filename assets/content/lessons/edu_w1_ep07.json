@@ -1,0 +1,35 @@
+{
+  "id": "edu_w1_ep07",
+  "type": "kg_discover",
+  "phase": "education",
+  "world": 1,
+  "episode": 7,
+  "title_my": "သင်ခန်းစာ (၇) - တိရစ္ဆာန်လေးများနှင့် အက္ခရာ",
+  "title_en": "Lesson 7: Animal Letters Match",
+  "cover_image": "assets/content/images/kg_kha_dog.svg",
+  "sticker_reward": "sticker_kg_w1_ep07",
+  "stars_reward": 3,
+  "discover_cards": [
+    { "letter": "ခ - ဂ - င", "word_my": "ခွေး၊ ဂဏန်း၊ ငါး", "image": "assets/content/images/kg_kha_dog.svg", "audio": "assets/content/audio/edu_w1_ep07_c1.mp3", "prompt_my": "တိရစ္ဆာန်သူငယ်ချင်းလေးတွေရဲ့ နာမည်အစ စာလုံးလေးတွေကို မှတ်ထားမယ်နော် — ခ ဆိုရင် ခွေး၊ ဂ ဆိုရင် ဂဏန်း၊ င ဆိုရင် ငါး ဖြစ်ပါတယ်။" },
+    { "letter": "ဆ - ဇ", "word_my": "ဆင် နှင့် ဇီးကွက်", "image": "assets/content/images/kg_za_owl.svg", "audio": "assets/content/audio/edu_w1_ep07_c2.mp3", "prompt_my": "နောက်ထပ် သူငယ်ချင်းနှစ်ယောက်ကတော့ ဆ ဆိုရင် ဆင်လေးနိုနို၊ ဇ ဆိုရင် ဇီးကွက်လေး ဖြစ်ပါတယ်။" }
+  ],
+  "mini_game": [
+    {
+      "prompt_my": "ဆ အက္ခရာနဲ့ စတဲ့ တိရစ္ဆာန်ကို ရွေးပေးပါ!",
+      "options": [
+        { "letter": "ဆ", "word_my": "ဆင်", "image": "assets/content/images/kg_hsa_elephant.svg", "is_correct": true },
+        { "letter": "င", "word_my": "ငါး", "image": "assets/content/images/kg_nga_fish.svg", "is_correct": false },
+        { "letter": "ခ", "word_my": "ခွေး", "image": "assets/content/images/kg_kha_dog.svg", "is_correct": false }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! ဆ — ဆင် မှန်ပါတယ်။"
+    },
+    {
+      "prompt_my": "ဇ အက္ခရာနဲ့ စတဲ့ ငှက်လေးကို ရှာပေးပါ!",
+      "options": [
+        { "letter": "ဇ", "word_my": "ဇီးကွက်", "image": "assets/content/images/kg_za_owl.svg", "is_correct": true },
+        { "letter": "ဂ", "word_my": "ဂဏန်း", "image": "assets/content/images/kg_ga_crab.svg", "is_correct": false }
+      ],
+      "encouragement_my": "အရမ်းကောင်းတယ်! ဇ — ဇီးကွက်ပါ။"
+    }
+  ]
+}

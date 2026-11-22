@@ -1,0 +1,25 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#FFFDE7"/>
+  <!-- Traditional Clay Water Pot (အိုး / ဃရိုး) -->
+  <!-- Stand -->
+  <ellipse cx="100" cy="165" rx="34" ry="10" fill="#BCAAA4"/>
+  <!-- Pot Body -->
+  <circle cx="100" cy="120" r="46" fill="#A1887F"/>
+  <ellipse cx="100" cy="120" rx="44" ry="42" fill="#8D6E63"/>
+  <!-- Neck and Rim -->
+  <rect x="82" y="72" width="36" height="12" rx="4" fill="#6D4C41"/>
+  <ellipse cx="100" cy="72" rx="22" ry="6" fill="#8D6E63"/>
+  <!-- Pot Lid / Cover -->
+  <path d="M80,70 Q100,56 120,70 Z" fill="#D7CCC8"/>
+  <circle cx="100" cy="56" r="5" fill="#8D6E63"/>
+  <!-- Decorative pattern line -->
+  <path d="M60,118 Q100,132 140,118" stroke="#D7CCC8" stroke-width="3" fill="none" stroke-dasharray="4 3"/>
+  <!-- Water Ladle (ရေမှုတ်) -->
+  <circle cx="145" cy="95" r="10" fill="#B0BEC5"/>
+  <line x1="145" y1="95" x2="165" y2="135" stroke="#78909C" stroke-width="4" stroke-linecap="round"/>
+  <!-- Cool Water Sparkles -->
+  <polygon points="50,90 52,95 57,97 52,99 50,104 48,99 43,97 48,95" fill="#80DEEA"/>
+  <!-- Letter Badge ဃ -->
+  <circle cx="45" cy="45" r="22" fill="#8D6E63"/>
+  <text x="45" y="54" font-family="'NotoSansMyanmar', sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ဃ</text>
+</svg>

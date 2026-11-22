@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep01",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 1,
+  "title_my": "အပိုင်း (၁) - မနက်ခင်း မင်္ဂလာပါ",
+  "title_en": "Ep 1: Morning Greeting",
+  "cover_image": "assets/content/images/nono_bow.svg",
+  "sticker_reward": "sticker_w1_ep01_greeting",
+  "stars_reward": 3,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep01_s1.mp3",
+      "text_my": "တစ်ခါတုန်းက စိမ်းလန်းတဲ့ ရွာလေးတစ်ရွာမှာ ဆင်လေးနိုနိုနဲ့ သူ့သူငယ်ချင်း ကြွက်လေးဂျီဂျီတို့ အတူတူ နေထိုင်ကြတယ်။ မနက်မိုးလင်းတော့ နေရောင်ခြည်လေး ပြတင်းပေါက်ကနေ ဝင်လာပါပြီ။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/grandma_happy.svg",
+      "audio": "assets/content/audio/w1_ep01_s2.mp3",
+      "text_my": "နိုနို အိပ်ရာက နိုးလာပြီး ဧည့်ခန်းထဲ ထွက်လာတော့ အဘွားက ပန်းအိုးလေးတွေ ရေလောင်းနေတာကို တွေ့လိုက်ရတယ်။ ဂျီဂျီလေးက ဘာပြောရမှန်းမသိလို့ နိုနိုနောက်မှာ ပုန်းနေတယ်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/nono_bow.svg",
+      "audio": "assets/content/audio/w1_ep01_s3.mp3",
+      "text_my": "အဘွားကို ပြုံးပြုံးလေး ဦးညွှတ်ပြီး မနက်ခင်း နှုတ်ဆက်စကား ပြောရအောင် ဆင်လေးနိုနိုကို နှိပ်ပေးပါဦး!",
+      "action_label_my": "မင်္ဂလာပါ အဘွား"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/grandma_happy.svg",
+      "audio": "assets/content/audio/w1_ep01_s4.mp3",
+      "text_my": "မင်္ဂလာပါ အဘွားလို့ နိုနိုက အသံချိုချိုလေးနဲ့ နှုတ်ဆက်လိုက်တော့ အဘွားက အရမ်းပျော်သွားပြီး မင်္ဂလာပါ မြေးလေးရေလို့ ပြန်ပြုံးပြလိုက်တယ်။ ဂျီဂျီလေးလည်း ပျော်ပြီး လိုက်နှုတ်ဆက်တော့တယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep01_s5.mp3",
+      "text_my": "ဆရာမလေး မီးမီးက ပြောတယ် — မနက်တိုင်း ဖေဖေ၊ မေမေနဲ့ အဘိုးအဘွားတွေကို မင်္ဂလာပါလို့ နှုတ်ဆက်ရင် တစ်နေ့လုံး မင်္ဂလာရှိပြီး အားလုံးက ချစ်ကြတယ်တဲ့နော်။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "မနက်ခင်းမှာ အဘွားကို တွေ့ရင် နိုနို ဘာပြောပြီး နှုတ်ဆက်သလဲ?",
+      "options": [
+        { "image": "assets/content/images/nono_bow.svg", "text_my": "မင်္ဂလာပါ အဘွား", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "ဘာမှမပြောဘဲ ပုန်းနေမည်", "is_correct": false }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! မနက်တိုင်း ပြုံးပြုံးလေး မင်္ဂလာပါလို့ နှုတ်ဆက်ကြမယ်နော်။"
+    }
+  ]
+}

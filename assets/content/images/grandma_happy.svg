@@ -1,0 +1,17 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#FFF3E0"/>
+  <circle cx="100" cy="72" r="36" fill="#D7CCC8"/>
+  <circle cx="100" cy="38" r="16" fill="#8D6E63"/>
+  <circle cx="100" cy="85" r="32" fill="#FFCCBC"/>
+  <path d="M84,80 Q90,74 96,80" stroke="#5D4037" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M104,80 Q110,74 116,80" stroke="#5D4037" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="78" cy="92" r="6" fill="#FF8A80" opacity="0.6"/>
+  <circle cx="122" cy="92" r="6" fill="#FF8A80" opacity="0.6"/>
+  <path d="M92,96 Q100,105 108,96" stroke="#5D4037" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M60,180 C60,128 140,128 140,180 Z" fill="#81C784"/>
+  <circle cx="100" cy="132" r="6" fill="#FFF"/>
+  <circle cx="152" cy="148" r="18" fill="#4DB6AC"/>
+  <rect x="156" y="132" width="16" height="6" rx="3" fill="#00897B"/>
+  <circle cx="48" cy="155" r="12" fill="#FFB74D"/>
+  <circle cx="48" cy="155" r="6" fill="#E65100"/>
+</svg>

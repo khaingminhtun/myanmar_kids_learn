@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#E8F5E9"/>
+  <circle cx="52" cy="90" r="32" fill="#81D4FA"/>
+  <circle cx="148" cy="90" r="32" fill="#81D4FA"/>
+  <circle cx="52" cy="90" r="20" fill="#B3E5FC"/>
+  <circle cx="148" cy="90" r="20" fill="#B3E5FC"/>
+  <circle cx="100" cy="105" r="56" fill="#4FC3F7"/>
+  <circle cx="80" cy="95" r="7" fill="#01579B"/>
+  <circle cx="120" cy="95" r="7" fill="#01579B"/>
+  <circle cx="82" cy="93" r="2.5" fill="#FFFFFF"/>
+  <circle cx="122" cy="93" r="2.5" fill="#FFFFFF"/>
+  <circle cx="70" cy="112" r="8" fill="#FF8A80" opacity="0.6"/>
+  <circle cx="130" cy="112" r="8" fill="#FF8A80" opacity="0.6"/>
+  <path d="M92,105 Q100,122 108,105 Q115,128 100,138 Q85,128 92,105" fill="#29B6F6"/>
+  <path d="M88,142 Q100,152 112,142" stroke="#01579B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="100" cy="35" r="16" fill="#FFD54F"/>
+  <path d="M100,24 L100,16 M100,54 L100,46 M80,35 L72,35 M128,35 L120,35" stroke="#FFB300" stroke-width="3" stroke-linecap="round"/>
+</svg>

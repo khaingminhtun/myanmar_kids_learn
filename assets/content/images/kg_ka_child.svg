@@ -1,0 +1,24 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#E8F5E9"/>
+  <!-- Burmese Child waving -->
+  <circle cx="100" cy="70" r="32" fill="#FFE0B2"/>
+  <!-- Hair -->
+  <path d="M68,66 C68,40 132,40 132,66 C124,52 108,50 100,50 C92,50 76,52 68,66 Z" fill="#212121"/>
+  <circle cx="100" cy="38" r="12" fill="#212121"/>
+  <!-- Eyes & Smile -->
+  <circle cx="88" cy="70" r="4.5" fill="#212121"/>
+  <circle cx="112" cy="70" r="4.5" fill="#212121"/>
+  <circle cx="89" cy="68" r="1.5" fill="#FFFFFF"/>
+  <circle cx="113" cy="68" r="1.5" fill="#FFFFFF"/>
+  <circle cx="80" cy="78" r="5" fill="#FF8A80" opacity="0.6"/>
+  <circle cx="120" cy="78" r="5" fill="#FF8A80" opacity="0.6"/>
+  <path d="M92,80 Q100,88 108,80" stroke="#212121" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Body / Shirt -->
+  <path d="M70,180 C70,118 130,118 130,180 Z" fill="#4CAF50"/>
+  <!-- Waving Hand -->
+  <circle cx="148" cy="105" r="10" fill="#FFE0B2"/>
+  <line x1="125" y1="125" x2="148" y2="105" stroke="#FFE0B2" stroke-width="10" stroke-linecap="round"/>
+  <!-- Burmese Letter badge က -->
+  <circle cx="45" cy="45" r="22" fill="#FFC107"/>
+  <text x="45" y="54" font-family="'NotoSansMyanmar', sans-serif" font-size="24" font-weight="bold" fill="#3E2723" text-anchor="middle">က</text>
+</svg>

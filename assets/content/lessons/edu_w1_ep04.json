@@ -1,0 +1,34 @@
+{
+  "id": "edu_w1_ep04",
+  "type": "kg_discover",
+  "phase": "education",
+  "world": 1,
+  "episode": 4,
+  "title_my": "သင်ခန်းစာ (၄) - စ နှင့် ဆ",
+  "title_en": "Lesson 4: Letters စ & ဆ",
+  "cover_image": "assets/content/images/kg_hsa_elephant.svg",
+  "sticker_reward": "sticker_kg_w1_ep04",
+  "stars_reward": 3,
+  "discover_cards": [
+    { "letter": "စ", "word_my": "စာအုပ်", "image": "assets/content/images/kg_sa_book.svg", "audio": "assets/content/audio/edu_w1_ep04_c1.mp3", "prompt_my": "ဒုတိယတန်း အက္ခရာလေးတွေ ဆက်လေ့လာကြမယ်နော်။ ဒါကတော့ စ လုံး ပါ။ စ — စ — စာအုပ်။ ပုံပြင်လှလှလေးတွေ ပါတဲ့ စာအုပ်ပုံလေးကို နှိပ်ကြည့်ပါ!" },
+    { "letter": "ဆ", "word_my": "ဆင်", "image": "assets/content/images/kg_hsa_elephant.svg", "audio": "assets/content/audio/edu_w1_ep04_c2.mp3", "prompt_my": "ဟောဒီမှာ နှာမောင်းရှည်ရှည် နားရွက်ကြီးကြီးနဲ့ ဘယ်သူလေးလဲ? ဆင်လေး နိုနို ပါ။ ဒါက ဆ လိမ် ပါ။ ဆ — ဆ — ဆင်။ နိုနိုပုံလေးကို နှိပ်ကြည့်ပါ!" }
+  ],
+  "mini_game": [
+    {
+      "prompt_my": "စ လုံး — စာအုပ် ပုံလေးကို ရွေးပေးပါ!",
+      "options": [
+        { "letter": "စ", "word_my": "စာအုပ်", "image": "assets/content/images/kg_sa_book.svg", "is_correct": true },
+        { "letter": "ဆ", "word_my": "ဆင်", "image": "assets/content/images/kg_hsa_elephant.svg", "is_correct": false }
+      ],
+      "encouragement_my": "မှန်ပါတယ်! စ လုံး စာအုပ်ပါ။"
+    },
+    {
+      "prompt_my": "ဆ လိမ် — ဆင် ပုံလေးကို နှိပ်ပေးပါ!",
+      "options": [
+        { "letter": "စ", "word_my": "စာအုပ်", "image": "assets/content/images/kg_sa_book.svg", "is_correct": false },
+        { "letter": "ဆ", "word_my": "ဆင်", "image": "assets/content/images/kg_hsa_elephant.svg", "is_correct": true }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! ဆ လိမ် ဆင် မှန်ပါတယ်။"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#FFF9C4"/>
+  <!-- Dining Table -->
+  <ellipse cx="100" cy="135" rx="78" ry="34" fill="#A1887F"/>
+  <ellipse cx="100" cy="130" rx="74" ry="30" fill="#D7CCC8"/>
+  <!-- Table legs -->
+  <rect x="42" y="145" width="10" height="30" rx="4" fill="#8D6E63"/>
+  <rect x="148" y="145" width="10" height="30" rx="4" fill="#8D6E63"/>
+  <!-- Rice Bowl -->
+  <ellipse cx="100" cy="122" rx="28" ry="12" fill="#CFD8DC"/>
+  <path d="M72,122 C72,142 128,142 128,122 Z" fill="#ECEFF1"/>
+  <ellipse cx="100" cy="118" rx="24" ry="10" fill="#FFFFFF"/>
+  <!-- Curry side dish -->
+  <circle cx="62" cy="125" r="14" fill="#FF8A65"/>
+  <circle cx="62" cy="125" r="9" fill="#D84315"/>
+  <!-- Water Cup -->
+  <rect x="132" y="108" width="14" height="20" rx="3" fill="#81D4FA"/>
+  <ellipse cx="139" cy="108" rx="7" ry="3" fill="#B3E5FC"/>
+  <!-- Spoon -->
+  <ellipse cx="116" cy="142" rx="6" ry="4" fill="#B0BEC5"/>
+  <line x1="120" y1="144" x2="135" y2="152" stroke="#90A4AE" stroke-width="3" stroke-linecap="round"/>
+</svg>

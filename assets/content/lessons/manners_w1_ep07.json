@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep07",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 7,
+  "title_my": "အပိုင်း (၇) - လူကြီးများကို ဦးစားပေးခြင်း",
+  "title_en": "Ep 7: Table Manners",
+  "cover_image": "assets/content/images/dining_table.svg",
+  "sticker_reward": "sticker_w1_ep07_table",
+  "stars_reward": 3,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/dining_table.svg",
+      "audio": "assets/content/audio/w1_ep07_s1.mp3",
+      "text_my": "မိသားစု ထမင်းဝိုင်းလေးမှာ မေမေချက်ထားတဲ့ မွှေးကြိုင်နေတဲ့ ဟင်းပွဲလေးတွေ စုံနေပါပြီ။ အားလုံး ထမင်းဝိုင်းမှာ ဝင်ထိုင်လိုက်ကြတယ်။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep07_s2.mp3",
+      "text_my": "နိုနိုက အရမ်းဗိုက်ဆာနေပေမယ့် ဇွန်းကို အရင်ကောက်မကိုင်သေးဘဲ အဘိုးနဲ့ အဘွား ထမင်းစစားဖို့ ယဉ်ကျေးစွာ စောင့်နေပါတယ်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/dining_table.svg",
+      "audio": "assets/content/audio/w1_ep07_s3.mp3",
+      "text_my": "အဘွား အရင်ဦးဆုံး ထမင်းစစားဖို့ ဦးချခွင့်ပေးရအောင် ထမင်းဝိုင်းပုံလေးကို နှိပ်ပေးပါ!",
+      "action_label_my": "အဘွား အရင်သုံးဆောင်ပါ"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/parents_happy.svg",
+      "audio": "assets/content/audio/w1_ep07_s4.mp3",
+      "text_my": "အဘွားက ထမင်းစစားပြီး ကဲ မြေးလေးတို့လည်း စားကြတော့နော်လို့ ပြောမှ နိုနိုနဲ့ ဂျီဂျီတို့ ပျော်ပျော်ရွှင်ရွှင် စားကြပါတယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/dining_table.svg",
+      "audio": "assets/content/audio/w1_ep07_s5.mp3",
+      "text_my": "ထမင်းဝိုင်းမှာ လူကြီးမိဘတွေကို အရင်ဦးစားပေးတာဟာ မိသားစု မေတ္တာနဲ့ ယဉ်ကျေးမှုကို ပြသတာပါပဲ။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "မိသားစု ထမင်းဝိုင်းမှာ ဘယ်သူ အရင် စစားသင့်သလဲ?",
+      "options": [
+        { "image": "assets/content/images/grandma_happy.svg", "text_my": "အဘိုးအဘွား မိဘများ အရင်စားမည်", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "ကိုယ်အရင် ဦးအောင် နှိုက်စားမည်", "is_correct": false }
+      ],
+      "encouragement_my": "အရမ်းလိမ္မာတယ်! လူကြီးတွေကို အမြဲဦးစားပေးရမယ်နော်။"
+    }
+  ]
+}

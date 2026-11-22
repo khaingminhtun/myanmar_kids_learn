@@ -1,0 +1,17 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#FFF8E1"/>
+  <circle cx="52" cy="100" r="30" fill="#81D4FA"/>
+  <circle cx="148" cy="100" r="30" fill="#81D4FA"/>
+  <circle cx="52" cy="100" r="18" fill="#B3E5FC"/>
+  <circle cx="148" cy="100" r="18" fill="#B3E5FC"/>
+  <ellipse cx="100" cy="115" rx="54" ry="48" fill="#4FC3F7"/>
+  <path d="M72,102 Q80,96 88,102" stroke="#01579B" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M112,102 Q120,96 128,102" stroke="#01579B" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <circle cx="68" cy="115" r="7" fill="#FF8A80" opacity="0.6"/>
+  <circle cx="132" cy="115" r="7" fill="#FF8A80" opacity="0.6"/>
+  <path d="M94,115 Q100,135 106,145 Q100,152 94,142 Z" fill="#29B6F6"/>
+  <ellipse cx="86" cy="155" rx="14" ry="9" fill="#0288D1"/>
+  <ellipse cx="114" cy="155" rx="14" ry="9" fill="#0288D1"/>
+  <path d="M90,70 Q100,60 110,70" stroke="#FFB300" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <polygon points="100,52 103,60 111,60 105,65 107,73 100,68 93,73 95,65 89,60 97,60" fill="#FFC107"/>
+</svg>

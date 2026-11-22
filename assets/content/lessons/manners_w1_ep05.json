@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep05",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 5,
+  "title_my": "အပိုင်း (၅) - ခွင့်ပြုပါဦး",
+  "title_en": "Ep 5: Walking Past Elders",
+  "cover_image": "assets/content/images/nono_bow.svg",
+  "sticker_reward": "sticker_w1_ep05_excuse",
+  "stars_reward": 3,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/grandma_happy.svg",
+      "audio": "assets/content/audio/w1_ep05_s1.mp3",
+      "text_my": "ဧည့်ခန်း သင်ဖြူးဖျာပေါ်မှာ အဘိုးနဲ့ အဘွားတို့ လက်ဖက်ရည်သောက်ရင်း စကားပြောနေကြပါတယ်။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/nono_sad.svg",
+      "audio": "assets/content/audio/w1_ep05_s2.mp3",
+      "text_my": "နိုနိုက ရေဘူးသွားယူဖို့ အဘိုးနဲ့ အဘွားရှေ့ကနေ ဖြတ်လျှောက်ရတော့မယ်။ ခါးမတ်မတ်ကြီးနဲ့ ဖြတ်ပြေးသွားရင် မရိုသေရာ ရောက်သွားမယ်နော်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/nono_bow.svg",
+      "audio": "assets/content/audio/w1_ep05_s3.mp3",
+      "text_my": "ခါးလေးကိုင်းပြီး ခွင့်ပြုပါဦးလို့ ယဉ်ကျေးစွာ ပြောရအောင် နိုနိုကို နှိပ်ပေးပါ!",
+      "action_label_my": "ခွင့်ပြုပါဦး အဘိုး အဘွား"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/grandma_happy.svg",
+      "audio": "assets/content/audio/w1_ep05_s4.mp3",
+      "text_my": "နိုနိုက ခါးလေးကိုင်းပြီး ခွင့်ပြုပါဦး အဘိုး အဘွားလို့ ပြောပြီး ဖြည်းဖြည်းလေး ဖြတ်လျှောက်သွားတော့ အဘိုးက သာဓု သာဓု မြေးလေး လိမ္မာလိုက်တာလို့ ဆုပေးလိုက်တယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep05_s5.mp3",
+      "text_my": "လူကြီးသူမတွေ ထိုင်နေတဲ့ရှေ့က ဖြတ်သွားတိုင်း ခါးလေးကိုင်းပြီး ခွင့်ပြုပါဦးလို့ ပြောတာ အရမ်းရိုသေမှုရှိတဲ့ အမူအကျင့်ပါ။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "လူကြီးတွေ ထိုင်နေတဲ့ရှေ့က ဖြတ်သွားရင် ဘယ်လို သွားရမလဲ?",
+      "options": [
+        { "image": "assets/content/images/nono_bow.svg", "text_my": "ခါးလေးကိုင်းပြီး ခွင့်ပြုပါဦး ပြောမည်", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "ပြေးလွှားပြီး ဖြတ်သွားမည်", "is_correct": false }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! လူကြီးသူမကို ရိုသေတတ်တဲ့ ကလေးလေးပဲ။"
+    }
+  ]
+}

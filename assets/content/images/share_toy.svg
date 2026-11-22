@@ -1,0 +1,29 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#E8EAF6"/>
+  <!-- Left Friend (Cat) -->
+  <circle cx="58" cy="85" r="26" fill="#FFB74D"/>
+  <polygon points="40,65 48,45 58,62" fill="#FF9800"/>
+  <polygon points="62,62 72,45 78,65" fill="#FF9800"/>
+  <circle cx="50" cy="82" r="3" fill="#3E2723"/>
+  <circle cx="66" cy="82" r="3" fill="#3E2723"/>
+  <path d="M54,90 Q58,95 62,90" stroke="#3E2723" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Right Friend (Mouse) -->
+  <circle cx="142" cy="85" r="24" fill="#90A4AE"/>
+  <circle cx="125" cy="65" r="12" fill="#B0BEC5"/>
+  <circle cx="159" cy="65" r="12" fill="#B0BEC5"/>
+  <circle cx="135" cy="82" r="3" fill="#263238"/>
+  <circle cx="149" cy="82" r="3" fill="#263238"/>
+  <path d="M138,90 Q142,95 146,90" stroke="#263238" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Shared Toy Car in Middle -->
+  <rect x="75" y="125" width="50" height="22" rx="6" fill="#E53935"/>
+  <path d="M85,125 L92,112 L112,112 L118,125 Z" fill="#FFCDD2"/>
+  <circle cx="86" cy="150" r="8" fill="#212121"/>
+  <circle cx="86" cy="150" r="3" fill="#B0BEC5"/>
+  <circle cx="114" cy="150" r="8" fill="#212121"/>
+  <circle cx="114" cy="150" r="3" fill="#B0BEC5"/>
+  <!-- Shared Ball -->
+  <circle cx="100" cy="85" r="12" fill="#4CAF50"/>
+  <path d="M92,80 Q100,85 96,96" stroke="#FFFFFF" stroke-width="2.5" fill="none"/>
+  <!-- Hearts -->
+  <path d="M100,50 C98,44 92,44 92,50 C92,56 100,62 100,62 C100,62 108,56 108,50 C108,44 102,44 100,50 Z" fill="#E91E63"/>
+</svg>

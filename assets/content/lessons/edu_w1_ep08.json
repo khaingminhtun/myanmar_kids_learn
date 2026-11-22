@@ -1,0 +1,34 @@
+{
+  "id": "edu_w1_ep08",
+  "type": "kg_discover",
+  "phase": "education",
+  "world": 1,
+  "episode": 8,
+  "title_my": "သင်ခန်းစာ (၈) - ပျောက်နေသော အက္ခရာ ရှာဖွေခြင်း",
+  "title_en": "Lesson 8: Missing Letter Puzzle",
+  "cover_image": "assets/content/images/kg_sa_book.svg",
+  "sticker_reward": "sticker_kg_w1_ep08",
+  "stars_reward": 3,
+  "discover_cards": [
+    { "letter": "က → ခ → ဂ", "word_my": "အစဉ်လိုက် ဖတ်မယ်", "image": "assets/content/images/kg_ka_child.svg", "audio": "assets/content/audio/edu_w1_ep08_c1.mp3", "prompt_my": "ဂျီဂျီလေးက စာလုံးတစ်လုံး ဖွက်ထားတယ်တဲ့! အစဉ်လိုက် မှတ်ထားရအောင် — က ပြီးရင် ခ၊ ခ ပြီးရင် ဂ လာပါတယ်။" },
+    { "letter": "စ → ဆ → ဇ", "word_my": "အစဉ်လိုက် ဖတ်မယ်", "image": "assets/content/images/kg_sa_book.svg", "audio": "assets/content/audio/edu_w1_ep08_c2.mp3", "prompt_my": "ဒုတိယတန်းမှာလည်း စ ပြီးရင် ဆ၊ ဆ ပြီးရင် ဇ လာပါတယ်။ ပျောက်နေတဲ့ စာလုံးလေးကို အတူတူ ရှာကြမယ်နော်!" }
+  ],
+  "mini_game": [
+    {
+      "prompt_my": "က နှင့် ဂ ကြားမှာ ဘာအက္ခရာ ပျောက်နေသလဲ? (က — ? — ဂ)",
+      "options": [
+        { "letter": "ခ", "word_my": "ခွေး", "image": "assets/content/images/kg_kha_dog.svg", "is_correct": true },
+        { "letter": "င", "word_my": "ငါး", "image": "assets/content/images/kg_nga_fish.svg", "is_correct": false }
+      ],
+      "encouragement_my": "မှန်ပါတယ်! က၊ ခ၊ ဂ ဖြစ်ပါတယ်။"
+    },
+    {
+      "prompt_my": "စ နှင့် ဇ ကြားမှာ ဘာအက္ခရာ ပျောက်နေသလဲ? (စ — ? — ဇ)",
+      "options": [
+        { "letter": "ဆ", "word_my": "ဆင်", "image": "assets/content/images/kg_hsa_elephant.svg", "is_correct": true },
+        { "letter": "ည", "word_my": "ညောင်ပင်", "image": "assets/content/images/kg_nya_tree.svg", "is_correct": false }
+      ],
+      "encouragement_my": "တော်လိုက်တာ! စ၊ ဆ၊ ဇ မှန်ပါတယ်။"
+    }
+  ]
+}

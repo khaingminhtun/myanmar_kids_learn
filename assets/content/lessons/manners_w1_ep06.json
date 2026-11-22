@@ -1,0 +1,60 @@
+{
+  "id": "manners_w1_ep06",
+  "type": "story_stream",
+  "phase": "good_manners",
+  "world": 1,
+  "episode": 6,
+  "title_my": "အပိုင်း (၆) - ထမင်းမစားမီ လက်ဆေးမယ်",
+  "title_en": "Ep 6: Washing Hands",
+  "cover_image": "assets/content/images/wash_hands.svg",
+  "sticker_reward": "sticker_w1_ep06_clean",
+  "stars_reward": 3,
+  "story_stream": [
+    {
+      "step": 1,
+      "kind": "narration",
+      "image": "assets/content/images/nono_sad.svg",
+      "audio": "assets/content/audio/w1_ep06_s1.mp3",
+      "text_my": "ခြံထဲမှာ သဲအိမ်လေး ဆောက်ပြီး ဆော့ကစားထားလို့ နိုနိုနဲ့ ဂျီဂျီရဲ့ လက်လေးတွေမှာ ဖုန်တွေ ပေကျံနေပါတယ်။"
+    },
+    {
+      "step": 2,
+      "kind": "narration",
+      "image": "assets/content/images/dining_table.svg",
+      "audio": "assets/content/audio/w1_ep06_s2.mp3",
+      "text_my": "အဲဒီအချိန်မှာ မေမေက နေ့လယ်စာ ထမင်းစားဖို့ ခေါ်လိုက်ပါပြီ။ လက်မဆေးဘဲ ထမင်းစားရင် လက်ပေါ်က ပိုးမွှားလေးတွေ ဗိုက်ထဲဝင်ပြီး ဗိုက်နာတတ်တယ်နော်။"
+    },
+    {
+      "step": 3,
+      "kind": "interactive_tap",
+      "image": "assets/content/images/wash_hands.svg",
+      "audio": "assets/content/audio/w1_ep06_s3.mp3",
+      "text_my": "ဆပ်ပြာမွှေးမွှေးနဲ့ ရေသန့်သန့်သုံးပြီး လက်ဆေးရအောင် ဆပ်ပြာပုံလေးကို နှိပ်ပေးပါ!",
+      "action_label_my": "ဆပ်ပြာနဲ့ လက်ဆေးမယ်"
+    },
+    {
+      "step": 4,
+      "kind": "outcome",
+      "image": "assets/content/images/nono_happy.svg",
+      "audio": "assets/content/audio/w1_ep06_s4.mp3",
+      "text_my": "ဆပ်ပြာပူဖောင်းလေးတွေနဲ့ လက်ချောင်းကြားလေးတွေပါ သန့်ရှင်းသွားပါပြီ။ ဂျီဂျီလေးလည်း နိုနိုလိုပဲ လက်လေးတွေ ပြောင်လက်သွားအောင် ဆေးလိုက်တယ်။"
+    },
+    {
+      "step": 5,
+      "kind": "narration",
+      "image": "assets/content/images/wash_hands.svg",
+      "audio": "assets/content/audio/w1_ep06_s5.mp3",
+      "text_my": "ကစားပြီးတိုင်း၊ အိမ်သာတက်ပြီးတိုင်းနဲ့ ထမင်းမစားခင်တိုင်း ဆပ်ပြာနဲ့ လက်ဆေးရင် ကျန်းမာသန်စွမ်းတဲ့ ကလေးလေး ဖြစ်မှာပါ။"
+    }
+  ],
+  "simple_quiz": [
+    {
+      "prompt_my": "ကစားပြီးလို့ ထမင်းစားတော့မယ်ဆိုရင် ဘာအရင် လုပ်ရမလဲ?",
+      "options": [
+        { "image": "assets/content/images/wash_hands.svg", "text_my": "ဆပ်ပြာနဲ့ လက်အရင်ဆေးမည်", "is_correct": true },
+        { "image": "assets/content/images/nono_sad.svg", "text_my": "လက်မဆေးဘဲ တန်းစားမည်", "is_correct": false }
+      ],
+      "encouragement_my": "မှန်ပါတယ်! သန့်ရှင်းမှ ကျန်းမာမယ်နော်။"
+    }
+  ]
+}

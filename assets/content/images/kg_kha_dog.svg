@@ -1,0 +1,28 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#FFF3E0"/>
+  <!-- Puppy Dog -->
+  <!-- Ears -->
+  <ellipse cx="56" cy="85" rx="14" ry="28" fill="#8D6E63" transform="rotate(-15 56 85)"/>
+  <ellipse cx="144" cy="85" rx="14" ry="28" fill="#8D6E63" transform="rotate(15 144 85)"/>
+  <!-- Head -->
+  <circle cx="100" cy="95" r="46" fill="#D7CCC8"/>
+  <circle cx="100" cy="110" r="26" fill="#EFEBE9"/>
+  <!-- Eyes -->
+  <circle cx="84" cy="88" r="6" fill="#3E2723"/>
+  <circle cx="116" cy="88" r="6" fill="#3E2723"/>
+  <circle cx="86" cy="86" r="2" fill="#FFFFFF"/>
+  <circle cx="118" cy="86" r="2" fill="#FFFFFF"/>
+  <!-- Nose & Tongue -->
+  <polygon points="94,104 106,104 100,112" fill="#3E2723"/>
+  <path d="M94,114 Q100,120 106,114" stroke="#3E2723" stroke-width="2.5" fill="none"/>
+  <ellipse cx="100" cy="122" rx="6" ry="8" fill="#FF8A80"/>
+  <!-- Body & Paws -->
+  <path d="M68,175 C68,135 132,135 132,175 Z" fill="#BCAAA4"/>
+  <circle cx="82" cy="172" r="12" fill="#EFEBE9"/>
+  <circle cx="118" cy="172" r="12" fill="#EFEBE9"/>
+  <!-- Wagging Tail -->
+  <path d="M130,150 Q160,135 155,115" stroke="#8D6E63" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <!-- Letter Badge ခ -->
+  <circle cx="45" cy="45" r="22" fill="#FF7043"/>
+  <text x="45" y="54" font-family="'NotoSansMyanmar', sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ခ</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#E1F5FE"/>
+  <!-- Crab legs -->
+  <path d="M60,120 Q35,130 38,150" stroke="#E53935" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M65,130 Q45,145 50,165" stroke="#E53935" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M140,120 Q165,130 162,150" stroke="#E53935" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M135,130 Q155,145 150,165" stroke="#E53935" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <!-- Crab body -->
+  <ellipse cx="100" cy="125" rx="50" ry="36" fill="#FF5252"/>
+  <!-- Claws -->
+  <path d="M55,105 Q30,85 45,65 Q60,85 55,105" fill="#D32F2F"/>
+  <path d="M35,60 Q50,75 55,60 Z" fill="#FF5252"/>
+  <path d="M145,105 Q170,85 155,65 Q140,85 145,105" fill="#D32F2F"/>
+  <path d="M165,60 Q150,75 145,60 Z" fill="#FF5252"/>
+  <!-- Eyestalks -->
+  <rect x="78" y="78" width="6" height="20" fill="#FF5252"/>
+  <circle cx="81" cy="74" r="10" fill="#FFFFFF"/>
+  <circle cx="83" cy="74" r="5" fill="#212121"/>
+  <rect x="116" y="78" width="6" height="20" fill="#FF5252"/>
+  <circle cx="119" cy="74" r="10" fill="#FFFFFF"/>
+  <circle cx="117" cy="74" r="5" fill="#212121"/>
+  <!-- Smile -->
+  <path d="M88,135 Q100,146 112,135" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Letter Badge ဂ -->
+  <circle cx="45" cy="45" r="22" fill="#0288D1"/>
+  <text x="45" y="54" font-family="'NotoSansMyanmar', sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ဂ</text>
+</svg>

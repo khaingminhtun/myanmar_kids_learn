@@ -1,0 +1,22 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#1A237E"/>
+  <!-- Crescent Moon and Stars in night window -->
+  <path d="M50,45 A16,16 0 1 0 74,65 A13,13 0 1 1 50,45 Z" fill="#FFEE58"/>
+  <circle cx="95" cy="40" r="2" fill="#FFF"/>
+  <circle cx="120" cy="50" r="3" fill="#FFF"/>
+  <circle cx="145" cy="35" r="2.5" fill="#FFF"/>
+  <polygon points="155,55 156,58 159,59 156,60 155,63 154,60 151,59 154,58" fill="#FFD54F"/>
+  <!-- Cozy Bed -->
+  <rect x="35" y="115" width="130" height="55" rx="8" fill="#5C6BC0"/>
+  <!-- Bed Headboard -->
+  <rect x="30" y="95" width="14" height="75" rx="6" fill="#3949AB"/>
+  <!-- Pillow -->
+  <rect x="46" y="105" width="34" height="22" rx="7" fill="#ECEFF1"/>
+  <!-- Blanket -->
+  <path d="M72,118 L165,118 L165,165 L72,165 Z" fill="#FFA726"/>
+  <path d="M72,118 Q118,124 165,118" stroke="#FB8C00" stroke-width="4" fill="none"/>
+  <!-- Sweet dreams Zzz -->
+  <text x="88" y="92" font-family="sans-serif" font-size="14" font-weight="bold" fill="#E0E0E0">z</text>
+  <text x="102" y="80" font-family="sans-serif" font-size="18" font-weight="bold" fill="#E0E0E0">z</text>
+  <text x="118" y="66" font-family="sans-serif" font-size="22" font-weight="bold" fill="#FFF9C4">Z</text>
+</svg>
